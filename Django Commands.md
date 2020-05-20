@@ -5,4 +5,4 @@
     - cd <project_name>
     * python manage.py startapp <app_name>
 
-3) NOTE : After creating/adding App, always add created app in settings.py INSTALLED_APPS list in settings.py
+3.) NOTE : After creating/adding App, always add created app in settings.py INSTALLED_APPS list in settings.py
